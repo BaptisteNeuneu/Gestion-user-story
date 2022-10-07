@@ -1,12 +1,12 @@
-##Jeu de NIM
+## Jeu de NIM
 ___________________________________
 
-###Description du projet
+### Description du projet
  	Ce projet a pour but d'expliquer d'une manière simple le concept
 	de startégie gagnante
 
-###Description du jeu de NIM
+### Description du jeu de NIM
 
 
 
-###Conclusion
+### Conclusion
