@@ -1,5 +1,4 @@
 # Jeu de NIM
-___________________________________
 
 ## Description du projet
  	Ce projet a pour but d'expliquer d'une manière simple le concept
@@ -18,14 +17,16 @@ ___________________________________
 	Cela passe par le nombre total de bonbons qui augmentent.
 	J'ajout d'un robots, d'une multitudes de robots et de robots "apprenant".
 	
-	
+<br>	
 
 ## Description du jeu de NIM
+	<p>
 	Durant une partie du jeu de NIM, 2 adversaires s'affrontent en
 	retirant chacun leur tour un élément tel qu'un bonbon parmi de multiples
   autre bonbons.
 	Un joueur peut retirer entre 1 et 3 bonbons.
 	Le joueur retirant le dernier bonbon perd la partie.
+	</p>
 	
 	Une partie peut être complexifiée en ajoutant des robots.
 	C'est durant ces parties que le concept de stratégie apprenante est
