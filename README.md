@@ -36,8 +36,7 @@
 	Par exemple :
 		-> Le robot qui a commencer la partie retire 1 bonbon.
 		-> Les robots gagnent.
-		-> Le robot qui commence la partie augmente de 1 des chance de retirer 1 
-			 bonbon
+		-> Le robot qui commence la partie augmente de 1 des chance de retirer 1 bonbon
 
 	Par ce mécanisme, les enfants comprennent qu'à chaque fois que les robots
 	gagnent, ils augmentent leur chances de gagner la partie.
