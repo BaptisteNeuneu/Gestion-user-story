@@ -20,13 +20,12 @@
 <br>	
 
 ## Description du jeu de NIM
-	<p>
 	Durant une partie du jeu de NIM, 2 adversaires s'affrontent en
 	retirant chacun leur tour un élément tel qu'un bonbon parmi de multiples
-  autre bonbons.
+	autre bonbons.
 	Un joueur peut retirer entre 1 et 3 bonbons.
 	Le joueur retirant le dernier bonbon perd la partie.
-	</p>
+
 	
 	Une partie peut être complexifiée en ajoutant des robots.
 	C'est durant ces parties que le concept de stratégie apprenante est
@@ -35,7 +34,7 @@
 	Dès que les robots gagnent la partie, ils rajouteront une chance de faire 
 	le même tirage. Sinon, il n'ajoute rien.
 	Par exemple :
- 		-> Le robot qui a commencer la partie retire 1 bonbon.
+		-> Le robot qui a commencer la partie retire 1 bonbon.
 		-> Les robots gagnent.
 		-> Le robot qui commence la partie augmente de 1 des chance de retirer 1 
 			 bonbon
